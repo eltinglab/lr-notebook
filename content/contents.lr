@@ -4,8 +4,8 @@ body:
 
 # To-do <i class="fa fa-square-o"></i>
 
-- item 2
-- item 3
+- Test out this notebook
+- Meet with Shawn Douglas and ask him about this product.
 
 # Done <i class="lightblue fa fa-check-square-o"></i>
-- <i class="lightblue fa fa-check-square"></i> item 1
+- <i class="lightblue fa fa-check-square"></i> download lektor and initiate lr-notebook
